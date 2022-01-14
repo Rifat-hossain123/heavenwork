@@ -1,0 +1,27 @@
+.nav-text{
+    font-family: 'Raleway', sans-serif !important;
+    font-weight: 400 !important;
+    color: #22BA67;
+}
+.navigation-bar a{
+    color: rgb(61, 60, 60);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px !important;
+    margin: 0 10px !important;
+    padding: 0 5px !important;
+    
+}
+
+.navigation-bar a:hover{
+    color: #22BA67 !important;
+    border-bottom: 1px solid #22BA67 !important;
+}
+.navigation-bar a:focus{
+    color: #22BA67 !important;
+    border-bottom: 1px solid #22BA67 !important;
+}
+
+.styles_scroll-to-top__2A70v{
+    bottom: 100px !important;
+}
